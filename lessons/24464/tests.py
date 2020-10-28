@@ -1,7 +1,7 @@
 #  Copyright (c) 2020, Egor N. Kostyuk, All rights reserved.
 import itertools
 import unittest
-from step5 import primes, primes2
+from .step5 import primes, primes2
 
 class TestStep5(unittest.TestCase):
 
